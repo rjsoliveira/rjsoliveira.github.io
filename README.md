@@ -1,8 +1,8 @@
 # Aerospace engineer
 
 ### Education
-IST
-TUDelft
+- IST
+- TUDelft
 
 ### Professional experience
 ADT
